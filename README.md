@@ -1,7 +1,16 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Tanvir+Ahmed+%F0%9F%91%8B;ML+Engineer+%7C+Full+Stack+Dev;Robotics+Builder+%7C+AI+Enthusiast;Always+building+something+new." alt="Typing SVG" />
-</h1>
+<!-- HEADER -->
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=Tanvir%20Ahmed&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=ML%20Engineer%20%7C%20Full%20Stack%20Dev%20%7C%20Robotics%20Builder&descAlignY=58&descSize=18&animation=fadeIn" />
+
+</div>
+
+<!-- TYPING SVG -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+AI+that+actually+matters+%F0%9F%9A%80;Full+Stack+%2B+ML+Engineer+%F0%9F%A7%A0;Autonomous+Robots+%F0%9F%A4%96;BRAC+University+CSE+%E2%80%94+Year+2;Always+in+the+build+mode+%F0%9F%94%A5" alt="Typing SVG" />
+</p>
+
+<!-- SOCIAL BADGES -->
 <p align="center">
   <a href="https://www.linkedin.com/in/tanvir-ahmed-siddique">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -13,80 +22,128 @@
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/tanvir-ahmed-siddique-ctrl">
-    <img src="https://img.shields.io/github/followers/tanvir-ahmed-siddique-ctrl?label=Follow&style=for-the-badge&logo=github&color=1f6feb"/>
+    <img src="https://img.shields.io/github/followers/tanvir-ahmed-siddique-ctrl?label=Follow&style=for-the-badge&logo=github&color=1f6feb&labelColor=0d1117"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=tanvir-ahmed-siddique-ctrl&style=for-the-badge&color=1f6feb&labelColor=0d1117&label=VIEWS"/>
 </p>
 
 ---
 
+<!-- ABOUT ME — Code Block Style -->
 ## 🧠 About Me
 
 ```python
-tanvir = {
-    "role"      : ["ML Engineer", "Full Stack Developer", "Robotics Builder"],
-    "university": "BRAC University — CSE, Year 2",
-    "club"      : "Secretary @ BRAC University Robotics Club (HR Dept)",
-    "building"  : ["AI-powered platforms", "Autonomous robots", "Web apps"],
-    "languages" : ["Java", "Python", "JavaScript", "SQL"],
-    "interests" : ["Machine Learning", "Robotics", "AI Systems"],
-    "goal"      : "Build AI that actually matters 🚀",
-}
+class TanvirAhmed:
+    name       = "Tanvir Ahmed"
+    university = "BRAC University — CSE, Year 2 📚"
+    club       = "Secretary @ Robotics Club HR Dept 🤝"
+    location   = "Dhaka, Bangladesh 🇧🇩"
+
+    focus      = ["ML Engineering", "Full Stack Dev", "Robotics"]
+    currently  = ["IELTSFlow", "Entertainify", "LFR Bot (PID tuning)"]
+    learning   = ["Deep Learning", "System Design", "Arduino PID control"]
+
+    goal       = "Build AI systems that actually change things 🚀"
+    fun_fact   = "I build robots AND web apps — chaos but make it productive"
 ```
 
 ---
 
-## ⚡ Tech Stack
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css,tailwind,react,nextjs,nodejs&perline=10" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,prisma,redis,git,github,vercel,vscode,arduino&perline=10" />
-  </a>
-</p>
-
----
-
-## 🏆 Achievements
+<!-- CURRENTLY BUILDING -->
+## 🔨 Currently Building
 
 <table align="center">
   <tr>
-    <td align="center">🥇</td>
-    <td><strong>1st Place</strong> — Prompt Engineering, Robosphere</td>
-  </tr>
-  <tr>
-    <td align="center">🥉</td>
-    <td><strong>3rd Place</strong> — Line Follower Robot, Robosphere</td>
-  </tr>
-  <tr>
-    <td align="center">🎖️</td>
-    <td><strong>Secretary</strong> — HR Dept, BRAC University Robotics Club</td>
+    <td align="center" width="33%">
+      <img width="40" src="https://img.icons8.com/fluency/48/artificial-intelligence.png"/>
+      <br/><strong>IELTSFlow</strong>
+      <br/><sub>AI-powered IELTS ecosystem</sub>
+    </td>
+    <td align="center" width="33%">
+      <img width="40" src="https://img.icons8.com/fluency/48/movie-projector.png"/>
+      <br/><strong>Entertainify</strong>
+      <br/><sub>AI entertainment discovery</sub>
+    </td>
+    <td align="center" width="33%">
+      <img width="40" src="https://img.icons8.com/fluency/48/robot.png"/>
+      <br/><strong>LFR Robot</strong>
+      <br/><sub>PID line follower (Robosphere)</sub>
+    </td>
   </tr>
 </table>
 
 ---
 
+<!-- TECH STACK -->
+## ⚡ Tech Stack
+
+<p align="center">
+  <strong>Languages & Core</strong><br/><br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css&perline=6"/>
+  </a>
+</p>
+
+<p align="center">
+  <strong>Frontend & UI</strong><br/><br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite&perline=6"/>
+  </a>
+</p>
+
+<p align="center">
+  <strong>Backend, DB & Cloud</strong><br/><br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,postgres,mysql,supabase,redis,prisma&perline=6"/>
+  </a>
+</p>
+
+<p align="center">
+  <strong>AI / ML & Tools</strong><br/><br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,arduino,linux&perline=6"/>
+  </a>
+</p>
+
+---
+
+<!-- ACHIEVEMENTS -->
+## 🏆 Achievements
+
+<div align="center">
+
+| 🥇 | **1st Place** — Prompt Engineering · Robosphere |
+|:--:|:----|
+| 🥉 | **3rd Place** — Line Follower Robot · Robosphere |
+| 🎖️ | **Secretary** — HR Dept, BRAC University Robotics Club |
+
+</div>
+
+---
+
+<!-- PROJECTS -->
 ## 🌟 Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>🎯 IELTSFlow</h3>
-      <p>AI-powered IELTS prep ecosystem — mock tests, AI speaking assessment, writing evaluation, role-based dashboards.</p>
+      <p>AI-powered IELTS prep ecosystem — mock tests, AI speaking & writing assessment, role-based dashboards, full workflow automation.</p>
       <p>
-        <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js"/>
+        <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
         <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
         <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white"/>
         <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white"/>
       </p>
+      <a href="https://github.com/tanvir-ahmed-siddique-ctrl/IELTSFlow">
+        <img src="https://img.shields.io/badge/View_Repo-1f6feb?style=flat-square&logo=github&logoColor=white"/>
+      </a>
     </td>
     <td width="50%" valign="top">
-      <h3>🎬 Entertainify <sub><sup>ongoing</sup></sub></h3>
-      <p>AI-powered entertainment discovery with intelligent recommendations and an interactive Cine-Graph visualization engine.</p>
+      <h3>🎬 Entertainify <kbd>ongoing</kbd></h3>
+      <p>AI entertainment discovery platform with smart recommendations and an interactive Cine-Graph visualization engine.</p>
       <p>
         <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB"/>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
@@ -96,8 +153,8 @@ tanvir = {
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📐 Util-Hub <sub><sup>ongoing</sup></sub></h3>
-      <p>28+ tools, calculators, graphing systems, and interactive math visualization experiences in one ecosystem.</p>
+      <h3>📐 Util-Hub <kbd>ongoing</kbd></h3>
+      <p>28+ tools, calculators, graphing systems, and interactive math visualizers in one ecosystem.</p>
       <p>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
@@ -106,7 +163,7 @@ tanvir = {
     </td>
     <td width="50%" valign="top">
       <h3>🛒 Accolade</h3>
-      <p>Real-world responsive e-commerce platform built for client deployment — modern UI, optimized shopping flows.</p>
+      <p>Production-deployed e-commerce platform with modern UI, responsive design, and optimized shopping flows.</p>
       <p>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
         <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
@@ -118,41 +175,67 @@ tanvir = {
 
 ---
 
+<!-- ROBOTICS -->
 ## 🤖 Robotics
 
-> Building autonomous systems that actually work in the real world.
+> Three robots. One goal — make them actually work in the real world.
 
-- **AGNI-KONA** — Autonomous firefighting robot (Arduino Mega, ultrasonic obstacle avoidance, dual L298N drivers)
-- **LFR Bot** — Line-following robot with PID control (Arduino Nano, QTR-8RC sensors, N20 motors)
-- **Security Patrol Bot** — GPS + compass guided, thermal + sound detection, ESP32-CAM live stream
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <strong>🔥 AGNI-KONA</strong><br/>
+      <sub>Autonomous firefighting robot</sub><br/>
+      <sub>Arduino Mega · L298N × 2 · Ultrasonic</sub>
+    </td>
+    <td align="center" width="33%">
+      <strong>🏁 LFR Bot</strong><br/>
+      <sub>PID line follower (Robosphere 🥉)</sub><br/>
+      <sub>Arduino Nano · QTR-8RC · N20 Motors</sub>
+    </td>
+    <td align="center" width="33%">
+      <strong>🛡️ Security Patrol Bot</strong><br/>
+      <sub>GPS + compass autonomous patrol</sub><br/>
+      <sub>ESP32-CAM · Sound sensors · Thermal</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
+<!-- GITHUB STATS -->
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanvir-ahmed-siddique-ctrl&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=12&hide_border=false" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanvir-ahmed-siddique-ctrl&layout=compact&theme=tokyonight&border_radius=12&hide_border=false" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tanvir-ahmed-siddique-ctrl&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=12&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" height="175"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanvir-ahmed-siddique-ctrl&layout=compact&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="175"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=tanvir-ahmed-siddique-ctrl&theme=tokyonight&border_radius=12&hide_border=false" />
+  <img src="https://streak-stats.demolab.com?user=tanvir-ahmed-siddique-ctrl&theme=tokyonight&border_radius=12&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" />
+</p>
+
+<!-- ACTIVITY GRAPH -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanvir-ahmed-siddique-ctrl&theme=tokyo-night&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ff6b6b&area=true&hide_border=true" />
 </p>
 
 ---
 
+<!-- TROPHIES -->
 ## 🏅 Trophy Case
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tanvir-ahmed-siddique-ctrl&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" />
+  <img src="https://github-profile-trophy.vercel.app/?username=tanvir-ahmed-siddique-ctrl&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8&no-bg=true" />
 </p>
 
 ---
 
+<!-- QUOTE -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tanvir-ahmed-siddique-ctrl&style=for-the-badge&color=1f6feb&label=PROFILE+VIEWS"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <i>Open to collabs on AI, ML, Full-Stack, and Robotics projects 🤝</i>
-</p>
+---
+
+<!-- FOOTER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=120&section=footer" />
