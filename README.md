@@ -176,6 +176,9 @@ class TanvirAhmed:
 ---
 
 ## 📊 GitHub Stats & Activity
+<p align="center">
+  <img src="./neural-banner.svg" width="100%"/>
+</p>
 
 <table align="center">
   <tr>
