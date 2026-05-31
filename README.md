@@ -49,17 +49,17 @@ class TanvirAhmed:
 <table align="center">
   <tr>
     <td align="center" width="33%">
-      <img width="36" src="https://img.icons8.com/fluency/48/artificial-intelligence.png"/><br/>
+      🤖<br/>
       <strong>IELTSFlow</strong><br/>
       <sub>AI-powered IELTS ecosystem</sub>
     </td>
     <td align="center" width="33%">
-      <img width="36" src="https://img.icons8.com/fluency/48/movie-projector.png"/><br/>
+      🎬<br/>
       <strong>Entertainify</strong><br/>
       <sub>AI entertainment discovery</sub>
     </td>
     <td align="center" width="33%">
-      <img width="36" src="https://img.icons8.com/fluency/48/robot.png"/><br/>
+      🏁<br/>
       <strong>LFR Robot</strong><br/>
       <sub>PID line follower (Robosphere)</sub>
     </td>
@@ -176,9 +176,6 @@ class TanvirAhmed:
 ---
 
 ## 📊 GitHub Stats & Activity
-<p align="center">
-  <img src="./neural-banner.svg" width="100%"/>
-</p>
 
 <table align="center">
   <tr>
@@ -197,6 +194,15 @@ class TanvirAhmed:
   <tr>
     <td colspan="2" align="center">
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanvir-ahmed-siddique-ctrl&theme=tokyo-night&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ff6b6b&area=true&hide_border=true" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tanvir-ahmed-siddique-ctrl/tanvir-ahmed-siddique-ctrl/output/github-snake-dark.svg"/>
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tanvir-ahmed-siddique-ctrl/tanvir-ahmed-siddique-ctrl/output/github-snake.svg"/>
+        <img alt="github-snake" src="https://raw.githubusercontent.com/tanvir-ahmed-siddique-ctrl/tanvir-ahmed-siddique-ctrl/output/github-snake-dark.svg"/>
+      </picture>
     </td>
   </tr>
 </table>
