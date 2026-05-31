@@ -1,13 +1,9 @@
-<!-- HEADER -->
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=Tanvir%20Ahmed&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=ML%20Engineer%20%7C%20Full%20Stack%20Dev%20%7C%20Robotics%20Builder&descAlignY=58&descSize=18&animation=fadeIn" />
-
-</div>
+<!-- HEADER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=Tanvir%20Ahmed&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=ML%20Engineer%20%7C%20Full%20Stack%20Dev%20%7C%20Robotics%20Builder&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <!-- TYPING SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+AI+that+actually+matters+%F0%9F%9A%80;Full+Stack+%2B+ML+Engineer+%F0%9F%A7%A0;Autonomous+Robots+%F0%9F%A4%96;BRAC+University+CSE+%E2%80%94+Year+2;Always+in+the+build+mode+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+AI+that+actually+matters+%F0%9F%9A%80;Full+Stack+%2B+ML+Engineer+%F0%9F%A7%A0;Autonomous+Robots+%F0%9F%A4%96;BRAC+University+CSE+%E2%80%94+Year+2;Always+in+the+build+mode+%F0%9F%94%A5" />
 </p>
 
 <!-- SOCIAL BADGES -->
@@ -29,7 +25,6 @@
 
 ---
 
-<!-- ABOUT ME — Code Block Style -->
 ## 🧠 About Me
 
 ```python
@@ -49,71 +44,51 @@ class TanvirAhmed:
 
 ---
 
-<!-- CURRENTLY BUILDING -->
 ## 🔨 Currently Building
 
 <table align="center">
   <tr>
     <td align="center" width="33%">
-      <img width="40" src="https://img.icons8.com/fluency/48/artificial-intelligence.png"/>
-      <br/><strong>IELTSFlow</strong>
-      <br/><sub>AI-powered IELTS ecosystem</sub>
+      <img width="36" src="https://img.icons8.com/fluency/48/artificial-intelligence.png"/><br/>
+      <strong>IELTSFlow</strong><br/>
+      <sub>AI-powered IELTS ecosystem</sub>
     </td>
     <td align="center" width="33%">
-      <img width="40" src="https://img.icons8.com/fluency/48/movie-projector.png"/>
-      <br/><strong>Entertainify</strong>
-      <br/><sub>AI entertainment discovery</sub>
+      <img width="36" src="https://img.icons8.com/fluency/48/movie-projector.png"/><br/>
+      <strong>Entertainify</strong><br/>
+      <sub>AI entertainment discovery</sub>
     </td>
     <td align="center" width="33%">
-      <img width="40" src="https://img.icons8.com/fluency/48/robot.png"/>
-      <br/><strong>LFR Robot</strong>
-      <br/><sub>PID line follower (Robosphere)</sub>
+      <img width="36" src="https://img.icons8.com/fluency/48/robot.png"/><br/>
+      <strong>LFR Robot</strong><br/>
+      <sub>PID line follower (Robosphere)</sub>
     </td>
   </tr>
 </table>
 
 ---
 
-<!-- TECH STACK -->
 ## ⚡ Tech Stack
 
 <p align="center">
-  <strong>Languages & Core</strong><br/><br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css&perline=6"/>
-  </a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css&perline=6"/></a>
 </p>
-
 <p align="center">
-  <strong>Frontend & UI</strong><br/><br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite&perline=6"/>
-  </a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,nodejs&perline=6"/></a>
 </p>
-
 <p align="center">
-  <strong>Backend, DB & Cloud</strong><br/><br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,postgres,mysql,supabase,redis,prisma&perline=6"/>
-  </a>
-</p>
-
-<p align="center">
-  <strong>AI / ML & Tools</strong><br/><br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,arduino,linux&perline=6"/>
-  </a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,redis,prisma,git,github,vercel,vscode,arduino&perline=10"/></a>
 </p>
 
 ---
 
-<!-- ACHIEVEMENTS -->
 ## 🏆 Achievements
 
 <div align="center">
 
+| | |
+|:--:|:--|
 | 🥇 | **1st Place** — Prompt Engineering · Robosphere |
-|:--:|:----|
 | 🥉 | **3rd Place** — Line Follower Robot · Robosphere |
 | 🎖️ | **Secretary** — HR Dept, BRAC University Robotics Club |
 
@@ -121,16 +96,15 @@ class TanvirAhmed:
 
 ---
 
-<!-- PROJECTS -->
 ## 🌟 Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>🎯 IELTSFlow</h3>
-      <p>AI-powered IELTS prep ecosystem — mock tests, AI speaking & writing assessment, role-based dashboards, full workflow automation.</p>
+      <p>AI-powered IELTS prep ecosystem — mock tests, AI speaking & writing assessment, role-based dashboards, full automation.</p>
       <p>
-        <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js"/>
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
         <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
         <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=black"/>
@@ -143,7 +117,7 @@ class TanvirAhmed:
     </td>
     <td width="50%" valign="top">
       <h3>🎬 Entertainify <kbd>ongoing</kbd></h3>
-      <p>AI entertainment discovery platform with smart recommendations and an interactive Cine-Graph visualization engine.</p>
+      <p>AI entertainment discovery with smart recommendations and an interactive Cine-Graph visualization engine.</p>
       <p>
         <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB"/>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
@@ -163,7 +137,7 @@ class TanvirAhmed:
     </td>
     <td width="50%" valign="top">
       <h3>🛒 Accolade</h3>
-      <p>Production-deployed e-commerce platform with modern UI, responsive design, and optimized shopping flows.</p>
+      <p>Production-deployed e-commerce platform — modern UI, optimized flows, fully responsive.</p>
       <p>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
         <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
@@ -175,7 +149,6 @@ class TanvirAhmed:
 
 ---
 
-<!-- ROBOTICS -->
 ## 🤖 Robotics
 
 > Three robots. One goal — make them actually work in the real world.
@@ -189,7 +162,7 @@ class TanvirAhmed:
     </td>
     <td align="center" width="33%">
       <strong>🏁 LFR Bot</strong><br/>
-      <sub>PID line follower (Robosphere 🥉)</sub><br/>
+      <sub>PID line follower · Robosphere 🥉</sub><br/>
       <sub>Arduino Nano · QTR-8RC · N20 Motors</sub>
     </td>
     <td align="center" width="33%">
@@ -202,27 +175,32 @@ class TanvirAhmed:
 
 ---
 
-<!-- GITHUB STATS -->
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanvir-ahmed-siddique-ctrl&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=12&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" height="175"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanvir-ahmed-siddique-ctrl&layout=compact&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="175"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=tanvir-ahmed-siddique-ctrl&theme=tokyonight&border_radius=12&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" />
-</p>
-
-<!-- ACTIVITY GRAPH -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanvir-ahmed-siddique-ctrl&theme=tokyo-night&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ff6b6b&area=true&hide_border=true" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tanvir-ahmed-siddique-ctrl&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" />
+    </td>
+    <td align="center">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanvir-ahmed-siddique-ctrl&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://streak-stats.demolab.com?user=tanvir-ahmed-siddique-ctrl&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanvir-ahmed-siddique-ctrl&theme=tokyo-night&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ff6b6b&area=true&hide_border=true" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-<!-- TROPHIES -->
-## 🏅 Trophy Case
+## 🏅 Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=tanvir-ahmed-siddique-ctrl&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8&no-bg=true" />
@@ -230,12 +208,9 @@ class TanvirAhmed:
 
 ---
 
-<!-- QUOTE -->
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
----
-
 <!-- FOOTER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=120&section=footer" width="100%"/>
